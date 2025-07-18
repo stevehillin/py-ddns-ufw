@@ -83,7 +83,7 @@ chmod +x main.py
 6. **Idempotency**: Skips UFW updates if the IP hasn't changed.
 
 ### File Structure
-- `ddns_ufw_updater.py`: The main Python script.
+- `main.py`: The main Python script.
 - `ips.json`: Stores the last resolved IPs (created automatically if it doesn't exist).
 - `requirements.txt`: Lists Python dependencies.
 - `README.md`: This file.
