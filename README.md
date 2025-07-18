@@ -23,7 +23,7 @@ A Python script to dynamically update UFW firewall rules based on DDNS (Dynamic 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/py-ddns-ufw.git
+   git clone https://github.com/stevehillin/py-ddns-ufw.git
    cd py-ddns-ufw
    ```
 
